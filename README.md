@@ -1,2 +1,2 @@
-# Pr-cticasCisco
+# PracticasCisco
 Prácticas Conmutadores y Redes Inalámbricas 
